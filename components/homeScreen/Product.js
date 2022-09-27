@@ -71,11 +71,11 @@ const styles = StyleSheet.create({
         flexDirection: "row",
     },
     recipe: {
-        color: "#fff",
+        color: "#555",
         fontSize: 14,
     },
     productName: {
-        color: "#fff",
+        color: "#555",
         fontSize: 22
     },
     productTitle: {
